@@ -1,4 +1,4 @@
-# Create a child class called girl that inherits from the Boy class
+# Create child class called girl that inherits from the Boy class
 from boy import Boy
 
 class Girl(Boy):

@@ -1,4 +1,4 @@
-# Create a parent class called Human
+# Create parent class called Human
 class Human:
 
     def __init__(self):  # initialise the attributes that will be part of this class and inherited by each child class

@@ -1,4 +1,4 @@
-# Create a class that inherits from Human class
+# Create class that inherits from Human class
 from human import Human
 
 class Boy(Human):

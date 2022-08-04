@@ -1,4 +1,4 @@
-# Create a child class called Female of the Male class for re-usability of code
+# Create child class called Female of the Male class for re-usability of code
 from male import Male
 
 class Female(Male):   # inheriting from Male class for efficiency

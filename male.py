@@ -1,4 +1,4 @@
-# Create a Male child class of Human parent class
+# Create Male child class of Human parent class
 from human import Human
 
 class Male(Human):
