@@ -10,7 +10,7 @@ class Female(Male):   # inheriting from Male class for efficiency
         self.oest_dominant = True
 
     def paternity_leave(self):   # cannot remove a method from parent class after inheritance, so edited to be class specific
-        return print("I don't get paternity leave, as a woman if I have a child I get materinity leave")
+        pass
 
     def maternity_leave(self):
         return print("If I have a child, I will get maternity leave")
